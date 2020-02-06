@@ -11,7 +11,7 @@ Transform {
             material Material {diffuseColor 0 0 1}
           }
           geometry Box {
-			size 2 1 1
+			size 2 5 1
 		  }
         }    
   ]
